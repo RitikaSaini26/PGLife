@@ -1,5 +1,6 @@
 # PGLife
 PGLife is a website to find and mark as interested to book your PG online through our web portal.
+Technologies used - HTML | CSS | Bootstrap | JS | DBMS | PHP
 For PGLife, I also create a Database(PGLIFE).
 In DB, I have created a following tables:- 
 CREATE TABLE users (
